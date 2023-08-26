@@ -21,7 +21,7 @@ _Create a GitHub Action and use it in a workflow._
 
 ## Step 5: Trigger the workflow
 
-_You've now got a fully functioning workflow! :smile:_
+_You've now got a fully functioning workflow! :smile:_ :smile:
 
 Your new action will run any time a pull request has been opened.
 
@@ -35,7 +35,7 @@ Your new action will run any time a pull request has been opened.
 1. Commit any change to your branch, such as adding an emoji to your README.md file.
 1. Create the pull request on your branch.
 1. See your action run on your pull request.
-1. Wait about 20 seconds for actions to run, then refresh this page (the one you're following instructions from) and an action will automatically close this step and open the next one.
+1. Wait about 20 seconds for actions to run, then refresh this page (the one you're following instructions from) and an action will automatically close this step and open the next one. :smile:
 
 <footer>
 
